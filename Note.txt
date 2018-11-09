@@ -1,0 +1,1 @@
+- input file : src_code.txt and it should be in the same folder of jar or exe file
