@@ -1,0 +1,41 @@
+read , reserved word
+x , identifier
+; , semi colon
+
+if , reserved word
+0 , number
+< , less than
+x , identifier
+then , reserved word
+
+fact , identifier
+:= , assignment operator
+1 , number
+; , semi colon
+
+repeat , reserved word
+
+fact , identifier
+:= , assignment operator
+fact , identifier
+* , multiply
+x , identifier
+; , semi colon
+
+x , identifier
+:= , assignment operator
+x , identifier
+- , minus sign
+1 , number
+
+until , reserved word
+x , identifier
+= , equal
+0 , number
+; , semi colon
+
+write , reserved word
+fact , identifier
+
+end , reserved word
+
